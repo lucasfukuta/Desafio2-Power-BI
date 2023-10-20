@@ -207,7 +207,7 @@ Depois de importar o BD, criei um model para ver as relações e como está dist
 
 ### Importação do BD na Microsoft Azure para o Power BI
 
-Nessa parte realizei o tratamento e a limpeza dos dados 
+Nessa parte realizei o tratamento e a limpeza dos dados. 
 
 
 ![PowerBI](https://github.com/lucasfukuta/Desafio2-Power-BI/blob/main/PowerBI%20trat.png)
