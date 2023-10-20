@@ -17,6 +17,8 @@ Para a construção do projeto acesse o link https://github.com/julianazanelatto
 
 ### Código do BD
 
+Código feito no cloud shell da Microsoft Azure.
+
 ```sql
 create schema if not exists azure_company;
 
